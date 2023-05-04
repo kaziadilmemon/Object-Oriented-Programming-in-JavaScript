@@ -1,3 +1,10 @@
+/* Method Overriding: If we create our own implementaton of run,it will not be taken from the Animal class. This is called Method Overriding.
+
+Super Keyword : When we override a method, we don't want method of the previous class to go in vain. We can execute it using super Keyword.
+
+super(a,b)
+*/
+
 class Employee {
   constructor(name) {
     console.log(`${name} - Employee's constructor is here`)
