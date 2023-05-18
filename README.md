@@ -6,7 +6,7 @@
 This repository focuses on providing an explanation and concept of Object-Oriented Programming (OOP) in JavaScript. Object-Oriented Programming is a programming paradigm that organizes code into objects, which are instances of classes that encapsulate data and behavior.
 
 # Content
-* Introduction to Object Oriented Programming
+* Introduction 
 * Protypes and --proto-- in JavaScript
 * Classes and Objects 
 * Constructors
