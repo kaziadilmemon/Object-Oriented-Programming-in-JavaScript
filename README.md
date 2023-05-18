@@ -1,4 +1,5 @@
-![Problem Based Learning (2)](https://github.com/kaziadilmemon/Object-Oriented-Programming-in-JavaScript/assets/96164867/331f26cc-7d57-4910-afcd-f2f489e779f6)
+![Problem Based Learning (3)](https://github.com/kaziadilmemon/Object-Oriented-Programming-in-JavaScript/assets/96164867/5c2d3c9f-f8ed-4997-a239-28075d07aa56)
+
 
 
 # Hello Developers!
